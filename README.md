@@ -1,3 +1,5 @@
+<div align="center"><h1>Implementing Policy-as-Code to Terraform workflow using Hashicorp Sentinel</h1></div>
+
 In this project, we are implementing Policy-as-Code (PaC) to our Terraform workflow using Hashicorp Sentinel. PaC is a way of defining and enforcing policies for your infrastructure as code, which can help you ensure compliance, security and best practices across your organization. Sentinel is a language and framework for writing and applying policies to Terraform and other Hashicorp products.
 
 ## Why use Policy-as-Code?
