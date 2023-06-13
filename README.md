@@ -26,8 +26,6 @@ Sentinel policies can be applied at different levels of granularity, such as org
 2. Soft-mandatory: lets an organization owner or a user with override privileges proceed with the run in the event of failure. Terraform Cloud logs all overrides.
 3. Hard-mandatory: requires that the policy passes. If a policy fails, the run stops. You must resolve the failure to proceed.
 
-Learn more about Sentinel: [Introduction to Sentinel, HashiCorp Policy as Code Framework By Armon Dadgar, CTO Hashicorp](https://youtu.be/Vy8s7AAvU6g).
-
 ## Terraform without Sentinel:
 ![Terraform without Sentinel](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tlyth8stff6gxsorhqhk.png)
 
